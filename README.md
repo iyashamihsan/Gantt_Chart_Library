@@ -1,7 +1,7 @@
 # Gantt_Chart_Library
 Android Gantt Chart Library
 
-![](ss_1.jpeg =512x512)
+<img src="ss_1,jpeg" width="512">
 
 ![](ss_2.jpeg)
 
